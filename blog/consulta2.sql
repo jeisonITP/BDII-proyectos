@@ -1,1 +1,1 @@
-select * from publicaciones;
+select * from publicaciones where id = 5;
